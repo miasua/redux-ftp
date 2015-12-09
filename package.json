@@ -1,0 +1,19 @@
+{
+  "name": "@spredfast/redux-ftp",
+  "version": "1.0.0",
+  "description": "Redux FTP is an app utilizing redux to allow cyclists to calculate their Functional Threshold Power.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miasua/redux-ftp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miasua/redux-ftp/issues"
+  },
+  "homepage": "https://github.com/miasua/redux-ftp#readme"
+}
